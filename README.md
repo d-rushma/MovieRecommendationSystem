@@ -4,4 +4,8 @@ The recommendation system plays a central role in a movie recommendation system 
 Convolutional Neural Networks (CNNs) are primarily used in image recognition and computer vision tasks. 
 Cosine similarity is used in a movie recommendation system to gauge how similar two films are based on their feature vectors or content qualities. 
 The datasets and reviews of the films are downloaded from TMDB and the recommended movie images are loaded using IMDB. 
-Movies are recommended based on the gener of the film, TMDB api key has been used for rendering the recommended movies
+Movies are recommended based on the gener of the film, TMDB api key has been used for rendering the recommended movies.
+
+
+The final report for the whole project has been provided in the files named as **"MovieRecommendationSystemReport"**. 
+Refer for the further clarifications about the project.
